@@ -1,0 +1,12 @@
+Player: HIH
+password: OO
+my pet: 0
+
+Player: ELLY
+password: JJ
+my pet: 0
+
+Player: HIH
+password: OO
+my pet: 0
+
